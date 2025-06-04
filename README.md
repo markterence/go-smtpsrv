@@ -35,5 +35,6 @@ func main() {
 
 Thanks
 =======
+- [alash3al/go-smtpsrv](https://github.com/alash3al/go-smtpsrv)
 - [parsemail](https://github.com/DusanKasan/parsemail)
-- [go-smtp](github.com/emersion/go-smtp)
+- [go-smtp](https://github.com/emersion/go-smtp)
